@@ -1,4 +1,4 @@
-#Wireless sensor network Project
+#Wireless Sensor Network Project
 ##Cryptography Implementation
 
 ---
